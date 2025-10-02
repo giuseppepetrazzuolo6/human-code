@@ -10,14 +10,14 @@ Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengon
  -prendo dai ripiani gli ingredienti del ragù
   -prendo la passata di pomodoro
   -prendo la carne macinata
- -prendo dai ripiani la besciamella
- -prendo dai ripiani le sfoglie
- -prendo carote 
- -prendo sedano 
- -prendo cipolla 
- -prendo l'olio.
- -prendo il vino rosso
- -prendo ingrediente segreto
+  -prendo carote 
+  -prendo sedano 
+  -prendo cipolla 
+  -prendo l'olio.
+  -prendo il vino rosso
+  -prendo ingrediente segreto
+-prendo dai ripiani la besciamella
+-prendo dai ripiani le sfoglie
 
 -recuperare gli utensili
  -prendere la teglia forno
@@ -59,7 +59,7 @@ Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengon
  -SE raggiunge la temperatura idonea
  -ALLORA mangiamo
 
- -ci sediamo a mangiare
+-ci sediamo a mangiare
   -assaggio la lasagna e mi rendo conto che è ancora diversa
    -SE uscita peggio la mangio pensando a quella della nonna
    -SE uscita come la nonna abbiamo indovinato l'ingrediente segreto e ci diamo una pacca
